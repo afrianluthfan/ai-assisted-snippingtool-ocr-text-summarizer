@@ -39,3 +39,4 @@ This is a program that can summarize any texts you can screenshot with Microsoft
     `$Env:GEMINI_API_KEY = "qwertyuiop-asdf_fghjkl"`
 
 10. `Win+Shift+S` to take a screeshot using Snipping Tool and then run the program.
+11. The output is then printed onto the console
