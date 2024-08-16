@@ -2,7 +2,7 @@
 
 ### About
 
-This is a program that can summarize any texts you can screenshot with Microsoft's Snipping Tool. I made this cos i was bored lol
+This is a program that can summarize any texts you can screenshot with Microsoft's Snipping Tool with the help of Google's Gemini. I made this cos i was bored lol
 
 ### Requirements
 
