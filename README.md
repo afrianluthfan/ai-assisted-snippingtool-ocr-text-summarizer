@@ -1,8 +1,8 @@
-# AI-Assisted SnippingTool OCR
+# AI-Assisted SnippingTool OCR Text Summarizer
 
 ### About
 
-This is a program that can summarize any texts you can screenshot using Microsoft's Snipping Tool with the help of Google's Gemini. I made this cos i was bored lol
+This is a program that can summarize any texts you can screenshot using Microsoft's Snipping Tool with the help of Google's Gemini. I made this cos i was bored lol also dont mind the long name, i suck at naming things. Should've probably consulted with an AI chatbot for a name in hindsight smh
 
 ### Requirements
 
